@@ -160,14 +160,14 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: #000000;
-  background-image: url('../assets/principal-mobile.png');
+  background-image: url('../images/mobile/principal-mobile.png');
   margin-top: 33px!important;
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
 
   @media (min-width: 1024px) {
-    background-image: url('../assets/principal.png');
+    background-image: url('../images/desktop/principal.png');
     background-position-x: 75%;
   }
 }
@@ -2367,14 +2367,14 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: #171717;
-  background-image: url('../assets/ultimo-mobile.png');
+  background-image: url('../images/mobile/final-mobile.png');
   background-color: black;
   background-position: center -100px;
   background-repeat: no-repeat;
   background-size: cover;
 
   @media (min-width: 1024px) {
-    background-image: url('../assets/ultimo.png');
+    background-image: url('../images/desktop/ultimo.png');
     background-size: 1600px;
     background-color: white;
     background-position: top center;
@@ -2734,7 +2734,7 @@
     .elementor-element.elementor-element-2763a760
     > .elementor-motion-effects-container
     > .elementor-motion-effects-layer {
-    background-image: url('../assets/principal-mobile.png');
+    background-image: url('../images/mobile/principal-mobile.png');
     background-position-y: -50px;
     background-size: 560px;
     background-color: white;
@@ -3210,7 +3210,7 @@
     .elementor-element.elementor-element-6d4f3800
     > .elementor-motion-effects-container
     > .elementor-motion-effects-layer {
-    background-image: url('../assets/ultimo-mobile.png');
+    background-image: url('../images/mobile/final-mobile.png');
     background-color: black;
     background-position: center -100px;
   }

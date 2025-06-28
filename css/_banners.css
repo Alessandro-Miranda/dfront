@@ -6,7 +6,7 @@
   .elementor-element.elementor-element-6d4f3800
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  --wpr-bg-694043fe-4e9c-4111-b870-2d45ec5406cd: url('../assets/BG-02-device-1.jpg');
+  --wpr-bg-694043fe-4e9c-4111-b870-2d45ec5406cd: url('../images/mobile/final-mobile.png');
 }
 
 .elementor-10
@@ -17,7 +17,7 @@
   .elementor-element.elementor-element-6d4f3800
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  --wpr-bg-33469bdf-644a-4e3e-89c9-5ef8338425a7: url('../assets/ultimo.png');
+  --wpr-bg-33469bdf-644a-4e3e-89c9-5ef8338425a7: url('../images/desktop/ultimo.png');
 }
 
 .elementor-10
@@ -39,7 +39,7 @@
   .elementor-element.elementor-element-2763a760
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  --wpr-bg-a33cd82a-d570-41e7-8e86-78dec9747ea9: url('../assets/BG-01-mobile.jpg');
+  --wpr-bg-a33cd82a-d570-41e7-8e86-78dec9747ea9: url('../images/mobile/principal-mobile.png');
 }
 
 .elementor-10
@@ -50,5 +50,5 @@
   .elementor-element.elementor-element-2763a760
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  --wpr-bg-a7aa26b8-42b6-4041-9076-cd069c644560: url('../assets/BG-01-desktop.jpg');
+  --wpr-bg-a7aa26b8-42b6-4041-9076-cd069c644560: url('../images/desktop/principal.png');
 }
