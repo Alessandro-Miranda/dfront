@@ -1,0 +1,54 @@
+.elementor-10
+  .elementor-element.elementor-element-6d4f3800:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-10
+  .elementor-element.elementor-element-6d4f3800
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  --wpr-bg-694043fe-4e9c-4111-b870-2d45ec5406cd: url('../assets/BG-02-device-1.jpg');
+}
+
+.elementor-10
+  .elementor-element.elementor-element-6d4f3800:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-10
+  .elementor-element.elementor-element-6d4f3800
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  --wpr-bg-33469bdf-644a-4e3e-89c9-5ef8338425a7: url('../assets/ultimo.png');
+}
+
+.elementor-10
+  .elementor-element.elementor-element-726d55c5:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-10
+  .elementor-element.elementor-element-726d55c5
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  --wpr-bg-0003e5a6-cb95-497d-931f-0d6544bf584a: url('https://pellegrintransporte.com.br/wp-content/uploads/2024/08/BG-03-9.jpg');
+}
+
+.elementor-10
+  .elementor-element.elementor-element-2763a760:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-10
+  .elementor-element.elementor-element-2763a760
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  --wpr-bg-a33cd82a-d570-41e7-8e86-78dec9747ea9: url('../assets/BG-01-mobile.jpg');
+}
+
+.elementor-10
+  .elementor-element.elementor-element-2763a760:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-10
+  .elementor-element.elementor-element-2763a760
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  --wpr-bg-a7aa26b8-42b6-4041-9076-cd069c644560: url('../assets/BG-01-desktop.jpg');
+}
