@@ -30,7 +30,8 @@
   .elementor-element.elementor-element-39cb398
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #dd52139c;
+  /* background-color: #0031729c; */
+  background-color: #007eff9c;
 }
 .elementor-10 .elementor-element.elementor-element-39cb398,
 .elementor-10 .elementor-element.elementor-element-39cb398::before {
@@ -107,7 +108,7 @@
   font-weight: var(--e-global-typography-accent-font-weight);
 }
 .elementor-10 .elementor-element.elementor-element-6af3d990 .elementor-button {
-  background-color: #dd5213;
+  background-color: #003172;
   font-family: 'Montserrat', Sans-serif;
   font-size: 1em;
   font-weight: 700;
@@ -219,7 +220,7 @@
   --align-self: flex-start;
 }
 .elementor-10 .elementor-element.elementor-element-612b47df .elementor-button {
-  background-color: #dd5213;
+  background-color: #003172;
   font-family: 'Montserrat', Sans-serif;
   font-size: 1em;
   font-weight: 700;
@@ -407,7 +408,7 @@
   --align-self: flex-start;
 }
 .elementor-10 .elementor-element.elementor-element-1da33bd3 .elementor-button {
-  background-color: #dd5213;
+  background-color: #003172;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
@@ -936,7 +937,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(180deg, #dd5213 0%, #dd5213 100%);
+  background-image: linear-gradient(180deg, #003172 0%, #003172 100%);
 }
 .elementor-10 .elementor-element.elementor-element-1cace57c,
 .elementor-10 .elementor-element.elementor-element-1cace57c::before {
@@ -1113,19 +1114,19 @@
   text-align: left;
 }
 .elementor-10 .elementor-element.elementor-element-61d1bce1.elementor-view-stacked .elementor-icon {
-  background-color: #dd5213;
+  background-color: #003172;
 }
 .elementor-10 .elementor-element.elementor-element-61d1bce1.elementor-view-framed .elementor-icon,
 .elementor-10 .elementor-element.elementor-element-61d1bce1.elementor-view-default .elementor-icon {
-  color: #dd5213;
-  border-color: #dd5213;
+  color: #003172;
+  border-color: #003172;
 }
 .elementor-10 .elementor-element.elementor-element-61d1bce1.elementor-view-framed .elementor-icon,
 .elementor-10
   .elementor-element.elementor-element-61d1bce1.elementor-view-default
   .elementor-icon
   svg {
-  fill: #dd5213;
+  fill: #003172;
 }
 .elementor-10 .elementor-element.elementor-element-61d1bce1 .elementor-icon {
   font-size: 44px;
@@ -1157,7 +1158,7 @@
 }
 .elementor-10 .elementor-element.elementor-element-45c7c36d .elementor-image-box-title {
   margin-bottom: 5px;
-  color: #dd5213;
+  color: #003172;
   font-family: 'Montserrat', Sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -1240,19 +1241,19 @@
   text-align: left;
 }
 .elementor-10 .elementor-element.elementor-element-39cb35c8.elementor-view-stacked .elementor-icon {
-  background-color: #dd5213;
+  background-color: #003172;
 }
 .elementor-10 .elementor-element.elementor-element-39cb35c8.elementor-view-framed .elementor-icon,
 .elementor-10 .elementor-element.elementor-element-39cb35c8.elementor-view-default .elementor-icon {
-  color: #dd5213;
-  border-color: #dd5213;
+  color: #003172;
+  border-color: #003172;
 }
 .elementor-10 .elementor-element.elementor-element-39cb35c8.elementor-view-framed .elementor-icon,
 .elementor-10
   .elementor-element.elementor-element-39cb35c8.elementor-view-default
   .elementor-icon
   svg {
-  fill: #dd5213;
+  fill: #003172;
 }
 .elementor-10 .elementor-element.elementor-element-39cb35c8 .elementor-icon {
   font-size: 44px;
@@ -1274,7 +1275,7 @@
 }
 .elementor-10 .elementor-element.elementor-element-4dbf4dc0 .elementor-image-box-title {
   margin-bottom: 5px;
-  color: #dd5213;
+  color: #003172;
   font-family: 'Montserrat', Sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -1357,19 +1358,19 @@
   text-align: left;
 }
 .elementor-10 .elementor-element.elementor-element-4a23870b.elementor-view-stacked .elementor-icon {
-  background-color: #dd5213;
+  background-color: #003172;
 }
 .elementor-10 .elementor-element.elementor-element-4a23870b.elementor-view-framed .elementor-icon,
 .elementor-10 .elementor-element.elementor-element-4a23870b.elementor-view-default .elementor-icon {
-  color: #dd5213;
-  border-color: #dd5213;
+  color: #003172;
+  border-color: #003172;
 }
 .elementor-10 .elementor-element.elementor-element-4a23870b.elementor-view-framed .elementor-icon,
 .elementor-10
   .elementor-element.elementor-element-4a23870b.elementor-view-default
   .elementor-icon
   svg {
-  fill: #dd5213;
+  fill: #003172;
 }
 .elementor-10 .elementor-element.elementor-element-4a23870b .elementor-icon {
   font-size: 44px;
@@ -1391,7 +1392,7 @@
 }
 .elementor-10 .elementor-element.elementor-element-5665d868 .elementor-image-box-title {
   margin-bottom: 5px;
-  color: #dd5213;
+  color: #003172;
   font-family: 'Montserrat', Sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -1474,19 +1475,19 @@
   text-align: left;
 }
 .elementor-10 .elementor-element.elementor-element-1be015f9.elementor-view-stacked .elementor-icon {
-  background-color: #dd5213;
+  background-color: #003172;
 }
 .elementor-10 .elementor-element.elementor-element-1be015f9.elementor-view-framed .elementor-icon,
 .elementor-10 .elementor-element.elementor-element-1be015f9.elementor-view-default .elementor-icon {
-  color: #dd5213;
-  border-color: #dd5213;
+  color: #003172;
+  border-color: #003172;
 }
 .elementor-10 .elementor-element.elementor-element-1be015f9.elementor-view-framed .elementor-icon,
 .elementor-10
   .elementor-element.elementor-element-1be015f9.elementor-view-default
   .elementor-icon
   svg {
-  fill: #dd5213;
+  fill: #003172;
 }
 .elementor-10 .elementor-element.elementor-element-1be015f9 .elementor-icon {
   font-size: 44px;
@@ -1508,7 +1509,7 @@
 }
 .elementor-10 .elementor-element.elementor-element-316aa77f .elementor-image-box-title {
   margin-bottom: 5px;
-  color: #dd5213;
+  color: #003172;
   font-family: 'Montserrat', Sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -1868,7 +1869,7 @@
   --align-self: center;
 }
 .elementor-10 .elementor-element.elementor-element-1ed16ba5 .elementor-button {
-  background-color: #dd5213;
+  background-color: #003172;
   font-family: 'Montserrat', Sans-serif;
   font-size: 1em;
   font-weight: 700;
@@ -2002,7 +2003,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(91deg, #ceb171 14%, #fff7cc 51%);
+  background-image: linear-gradient(91deg, #003172 14%, #007eff 51%);
 }
 .elementor-10 .elementor-element.elementor-element-52908052,
 .elementor-10 .elementor-element.elementor-element-52908052::before {
@@ -2422,7 +2423,7 @@
   --align-self: center;
 }
 .elementor-10 .elementor-element.elementor-element-1311c570 .elementor-button {
-  background-color: #dd5213;
+  background-color: #003172;
   font-family: 'Montserrat', Sans-serif;
   font-size: 1em;
   font-weight: 700;
@@ -3731,7 +3732,7 @@
 .elementor-10 .elementor-element.elementor-element-de6929a {
   border-width: 10px 0px 0px 0px;
   border-style: solid;
-  border-image: linear-gradient(to right, #dd5213, #dd5213) 1;
+  border-image: linear-gradient(to right, #003172, #003172) 1;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-6db09b4d */
 @media (min-width: 1025px) {
@@ -3831,14 +3832,14 @@
 .elementor-10 .elementor-element.elementor-element-27a3e58b {
   border-width: 0px 0px 10px 0px;
   border-style: solid;
-  border-image: linear-gradient(to right, #ceb171, #fff7cc) 1;
+  border-image: linear-gradient(to right, #003172, #007eff) 1;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-6d4f3800 */
 @media (max-width: 1025px) {
   .elementor-10 .elementor-element.elementor-element-6d4f3800 {
     border-width: 0px 0px 10px 0px;
     border-style: solid;
-    border-image: linear-gradient(to right, #ceb171, #fff7cc) 1;
+    border-image: linear-gradient(to right, #003172, #007eff) 1;
   }
 } /* End custom CSS */
 /* Start custom CSS for button, class: .elementor-element-49ccb148 */
@@ -3878,7 +3879,7 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: #dd5213;
+  background-color: #003172;
 
   border-radius: 10px;
 
@@ -3893,7 +3894,7 @@ body {
 
 *::selection {
   color: #ffffff;
-  background: #dd5213;
+  background: #003172;
 }
 
 p:last-child {
@@ -3902,7 +3903,7 @@ p:last-child {
 
 degrade-color {
   padding-right: 0.05em;
-  background-image: linear-gradient(128deg, #dd5213 0%, #994822 100%);
+  background-image: linear-gradient(128deg, #003172 0%, #994822 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
